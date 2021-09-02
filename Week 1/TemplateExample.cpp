@@ -56,6 +56,7 @@ private:
 	T m_val;
 };
 
+/*
 // Main function
 int main()
 {
@@ -68,3 +69,4 @@ int main()
 
 	return 0;
 }
+*/
