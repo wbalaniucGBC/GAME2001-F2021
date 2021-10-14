@@ -7,7 +7,7 @@ class UnorderedArray
 public:
 	// Constructor
 	UnorderedArray(int size, int growBy = 1) :
-		m_array(NULL), m_maxSize(0), m_growSize(0), m_numElements(0)
+		m_array(nullptr), m_maxSize(0), m_growSize(0), m_numElements(0)
 	{
 		if (size)	// Is this a legal size for an array?
 		{
